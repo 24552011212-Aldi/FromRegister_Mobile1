@@ -1,0 +1,7 @@
+<resources>
+    <string name="label">label</string>
+    <string name="FieldName">Nama </string>
+    <string name="FieldEmail">Email</string>
+    <string name="FieldPassword">Password</string>
+    <string name="KonfirPass">Konfirmasi Password</string>
+</resources>
